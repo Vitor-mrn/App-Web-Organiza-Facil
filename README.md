@@ -1,13 +1,16 @@
 Apresentação do sistema
 Nome: Organiza Fácil
+
 Problema resolvido: A distribuição das tarefas muitas vezes salvo em vários aplicativos diferentes.
+
 Público-alvo: Todas as pessoas entre 13 e 80 anos, que queiram organizar sua rotina pessoal de
 forma online.
+
 Objetivo do sistema: Ajudar pessoas a organizar suas tarefas diárias em um só lugar, de forma
 online.
 
 Ferramentas usadas
-Será usado HTML, CS e JS
+Usado HTML, CS e JS
 
 Requisitos Funcionais 
 RF_01: Cadastrar tarefas: O sistema deve permitir o cadastro de uma nova tarefa, com os campos
